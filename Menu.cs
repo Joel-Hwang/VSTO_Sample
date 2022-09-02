@@ -19,7 +19,7 @@ namespace VSTO_Sample
             Main main = new Main();
 
             CustomTaskPane taskPane = Globals.ThisAddIn.CustomTaskPanes.Add(main, "Hello World");
-            taskPane.Width = 500;
+            taskPane.Width = 300;
             taskPane.Visible = true;
         }
     }

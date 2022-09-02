@@ -37,7 +37,7 @@ namespace VSTO_Sample
             // 
             this.btnDataLoad.Location = new System.Drawing.Point(36, 36);
             this.btnDataLoad.Name = "btnDataLoad";
-            this.btnDataLoad.Size = new System.Drawing.Size(336, 90);
+            this.btnDataLoad.Size = new System.Drawing.Size(229, 90);
             this.btnDataLoad.TabIndex = 0;
             this.btnDataLoad.Text = "Data Load";
             this.btnDataLoad.UseVisualStyleBackColor = true;
@@ -47,7 +47,7 @@ namespace VSTO_Sample
             // 
             this.btnSave.Location = new System.Drawing.Point(36, 201);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(336, 90);
+            this.btnSave.Size = new System.Drawing.Size(229, 90);
             this.btnSave.TabIndex = 1;
             this.btnSave.Text = "Save";
             this.btnSave.UseVisualStyleBackColor = true;
@@ -60,7 +60,7 @@ namespace VSTO_Sample
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnDataLoad);
             this.Name = "Main";
-            this.Size = new System.Drawing.Size(428, 653);
+            this.Size = new System.Drawing.Size(300, 468);
             this.ResumeLayout(false);
 
         }
